@@ -43,6 +43,7 @@ Select OData Feed.
 Enter the Project Online OData URL:
 https://.sharepoint.com/sites/pwa/_api/ProjectData
 
+https://msproject.vgh.local/sites/PBO/Projects.aspx 
 
 Click OK.
 
